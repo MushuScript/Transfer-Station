@@ -1,1 +1,1 @@
-[开始]http://yzcdn.aikeyy.top|http://yzcdn.aikeyy.top[结束]
+[开始]https://mushu.me.|https://oem.mushu.me.[结束]
