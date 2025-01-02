@@ -1,1 +1,1 @@
-[开始]https://mushu.me.|https://oem.mushu.me.[结束]
+[开始]https://mushu.me|https://oem.mushu.me[结束]
